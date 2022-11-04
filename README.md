@@ -9,7 +9,7 @@
 
 <h1 align="left">Don't overthink just code</h1>
 
-   [![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
    
 
  
