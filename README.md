@@ -1,5 +1,5 @@
 # king536
-[![Alain GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainDlcTvop)](https://github.com/king536/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alain GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainDlcTvop&show_icons=true&theme=radical)
 <p align="left">
