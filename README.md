@@ -2,7 +2,7 @@
 <h1 align="center">Alain Fullstack-React developer</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=merko)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
