@@ -1,4 +1,5 @@
 # king536
+<picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alain GitHub stats](https://github-readme-stats.vercel.app/api?username=AlainDlcTvop&show_icons=true&theme=radical)
@@ -13,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
+
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
