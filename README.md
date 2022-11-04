@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaindlctvop)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=merko)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
