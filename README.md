@@ -4,8 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaindlctvop&show_icons=true&theme=merko)
 
+<p align="left">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=merko)](https://git.io/streak-stats)</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
