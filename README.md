@@ -10,10 +10,13 @@
     <td valign="top">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=merko)](https://git.io/streak-stats)</td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaindlctvop&show_icons=true&theme=merko)/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=alaindlctvop&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=alaindlctvop&show_icons=true&&theme=merko"/></td>
+    
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaindlctvop&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  
   </tr>
 </table>
 
