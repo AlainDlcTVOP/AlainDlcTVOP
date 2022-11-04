@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaindlctvop&show_icons=true&theme=merko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=alaindlctvop&repo=king536-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=alaindlctvop&repo=[king536-readme-stats](https://github.com/AlainDlcTVOP/king536/blob/main/README.md))
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=merko)](https://git.io/streak-stats)
 
