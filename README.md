@@ -1,6 +1,4 @@
-# king536
-<h1 align="center">Alain Fullstack-React developer</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+[![MasterHead](banner.png)](alaindlctvop)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaindlctvop&show_icons=true&theme=merko)
 [![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
