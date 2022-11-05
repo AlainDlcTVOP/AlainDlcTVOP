@@ -7,12 +7,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=tokyonight)](https://git.io/streak-stats)
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Don't+overthink+just+code)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Don't+Overthink+Just+Code)](https://git.io/typing-svg)
 
 
    [![trophy](https://github-profile-trophy.vercel.app/?username=alaindlctvop&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Digital+communication)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Digital+Communication)](https://git.io/typing-svg)
  
 
  
@@ -20,7 +20,7 @@
 
  
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Code+skills)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Code+Skills)](https://git.io/typing-svg)
  
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </a> 
@@ -32,5 +32,5 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alaindlctvop&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alaindlctvop&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
