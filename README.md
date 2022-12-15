@@ -7,6 +7,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaindlctvop&theme=tokyonight)](https://git.io/streak-stats)
 
 
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&color=14E182&width=435&lines=Don't+Overthink+Just+Code)](https://git.io/typing-svg)
 
 
